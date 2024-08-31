@@ -2,7 +2,8 @@ import telebot
 from telebot import types
 import random
 
-bot = telebot.TeleBot("6653839929:AAFsdbPYTnZ4viKq4iph68sFWCUE4j8GTeE")
+TOKEN=
+bot = telebot.TeleBot(TOKEN)
 users = {}
 
 
